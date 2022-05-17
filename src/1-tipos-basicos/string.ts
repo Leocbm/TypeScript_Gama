@@ -13,4 +13,4 @@ function nomeCompleto(nome: string, sobrenome: string) {
     return `${nome} ${sobrenome}`
 }
 
-nomeCompleto('leonardo', 'cunha')
+nomeCompleto('leonardo', 'cunha barbosa')
